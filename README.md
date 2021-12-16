@@ -103,3 +103,10 @@ The search for "Barack" yields the following results:
 The facilitator will inform you how much time you have to complete the task. You are free to use any resources you deem necessary. We will observe your workflow as well as assess the quality of your code and tests.
 
 Good luck!
+
+
+### User Stories
+
+as a developer
+I need to write some test to keep focus
+will start with making calls to API
